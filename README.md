@@ -1,9 +1,10 @@
 # Efficient Multi-Modal Environment Representation for Robot Navigation.
 
 
-This is the implementation of Sapar Charyyev's thesis titled - Efficient Multi-Modal Environment Representation for Robot Navigation.
+This is the implementation of Sapar Charyyev's thesis titled - Efficient Multi-Modal Environment Representation for Robot Navigation (assets/thsis.pdf).
  
 ![pipeline](assets/architecture.png)
+
 
 ## Results
 
