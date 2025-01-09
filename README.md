@@ -1,23 +1,25 @@
 # Efficient Multi-Modal Environment Representation for Robot Navigation.
 
 
-This is the implementation of thesis - Efficient Multi-Modal Environment Representation for Robot Navigation.
-<!-- 
-![pipeline](Assets/pipeline.png) -->
+This is the implementation of Sapar Charyyev's thesis titled - Efficient Multi-Modal Environment Representation for Robot Navigation.
+ 
+![pipeline](assets/architecture.png)
 
 ## Results
 
 <!-- ![Ground Truth](assets/gt.gif)       ![Ours](assets/our.gif) -->
-<p align="left">
-  <div>
-    <p align="center">Ground Truth</p>
-    <img src="assets/gt.gif" width="300" />
-  </div>
-  <div>
-    <p align="center">Ours</p>
-    <img src="assets/our.gif" width="300" />
-  </div>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <p>Ground Truth</p>
+      <img src="assets/gt.gif" width="350" />
+    </td>
+    <td align="center">
+      <p>Ours</p>
+      <img src="assets/our.gif" width="350" />
+    </td>
+  </tr>
+</table>
 
 ### 3D Semantic Occupancy Prediction (on nuScenes validation)
 
